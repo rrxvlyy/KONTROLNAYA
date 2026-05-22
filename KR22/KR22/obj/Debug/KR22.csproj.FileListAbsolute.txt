@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\KR22\KR22\bin\Debug\KR22.exe.config
+C:\Users\ibrem\source\repos\KR22\KR22\bin\Debug\KR22.exe
+C:\Users\ibrem\source\repos\KR22\KR22\bin\Debug\KR22.pdb
+C:\Users\ibrem\source\repos\KR22\KR22\obj\Debug\KR22.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\KR22\KR22\obj\Debug\KR22.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\KR22\KR22\obj\Debug\KR22.exe
+C:\Users\ibrem\source\repos\KR22\KR22\obj\Debug\KR22.pdb
+C:\Users\ibrem\source\repos\KR22\KR22\obj\Debug\KR22.exe.config

@@ -1,0 +1,8 @@
+Find Sword;Active;100
+Defeat Boss;Locked;500
+Talk to NPC;Completed;50
+Collect Herbs;Active;30
+Open Gate;Locked;200
+Save Village;Active;300
+Find Secret Room;Completed;150
+Kill Dragon;Locked;1000
